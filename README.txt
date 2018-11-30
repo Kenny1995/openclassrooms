@@ -1,0 +1,1 @@
+This is an excercise to prove competence in Git and Github from openclassrooms.
